@@ -1,0 +1,77 @@
+body{
+    padding: 50px;
+    font-family: "Roboto";
+    line-height: 29px;
+    
+ }
+     table {
+       border-collapse: collapse;
+       width:90%;
+       font-family: "Roboto";
+       line-height: 29px;
+     }
+     th, td {
+       text-align: center;
+       padding: 7px;
+       font-size: 17px;
+       font-family: "Roboto";
+     }
+     input{
+       text-align: center;
+       padding: 10px;
+       font-family: "Roboto";
+       line-height: 29px;
+       accent-color:  #009846;
+     }
+     #results{
+     text-align: left;
+     font-size: 17px;
+     font-family: "Roboto";
+     line-height: 29px;
+     width:90%;
+     padding-top: 0px;
+     }
+ input{
+     line-height: 29px;
+   background-color: #009846;
+     border-radius: 83px;
+     padding-top: 21px;
+     padding-bottom: 21px;
+     padding-left: 50px;
+     padding-right: 50px;
+     display: inline-block;
+     color: #ffffff;
+     font-size: 17px;
+     font-style: normal;
+     font-weight: 500;
+     font-family: "Roboto";
+     text-transform: uppercase;
+     border-color: #009846;
+     border-width: 1px;
+ }
+ input:hover {
+     line-height: 29px;
+   background-color: #ffffff;
+     border-radius: 83px;
+     padding-top: 21px;
+     padding-bottom: 21px;
+     padding-left: 50px;
+     padding-right: 50px;
+     display: inline-block;
+     color: #009846;
+     font-size: 17px;
+     font-style: normal;
+     font-weight: 500;
+     font-family: "Roboto";
+     text-transform: uppercase;
+     border-color: #009846;
+     border-width: 1px;
+     border-style: solid solid solid solid;
+ }
+     .text43{
+       font-weight: 900;
+     }
+     .text42{
+       font-weight: 900;
+     }
+ 
